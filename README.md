@@ -1,7 +1,8 @@
 ![borderseperator](https://user-images.githubusercontent.com/129833043/229751316-39b2c14e-d9af-424b-ae34-f93354603b20.gif)
 ### Hi there 👋, Welcome to my Profile <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="![waving](https://user-images.githubusercontent.com/129833043/229754134-b4238d35-b257-4ccb-8cbc-1df5d714e36e.gif)"
+ alt="Welcome!" width="200"/>
 
 </div>
 
