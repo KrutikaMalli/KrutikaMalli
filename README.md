@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...through my mail
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I enjoy watching Anime and love drawing mandalas in my free time.
+- 
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
