@@ -1,14 +1,10 @@
-<![borderseperator](https://user-images.githubusercontent.com/129833043/229751316-39b2c14e-d9af-424b-ae34-f93354603b20.gif width="50" height="50") />
-<img align="right" alt="GIF" src="./code.gif" width="50" height="50" />
+
 
 ### Hi there 👋, Welcome to my Profile 
+![borderseperator](https://user-images.githubusercontent.com/129833043/229762059-5fa9f02a-c108-4861-a016-c085235a3708.gif)
 
-![waving](https://user-images.githubusercontent.com/129833043/229754134-b4238d35-b257-4ccb-8cbc-1df5d714e36e.gif) width="50" height="50"
+### ![light](https://user-images.githubusercontent.com/129833043/229731339-2aa1ce35-7f9a-4f36-9ed2-d6ea12e34f48.gif)  Krutika Malli 
 
-
-
-
-![light](https://user-images.githubusercontent.com/129833043/229731339-2aa1ce35-7f9a-4f36-9ed2-d6ea12e34f48.gif) Krutika Malli
 I'm Krutika Malli from India,
 
 - 🔭 I’m currently working on ... Advanced SQL, Creating interactive dashboards in Tableau and Power BI 
@@ -18,11 +14,15 @@ I'm Krutika Malli from India,
 - 📫 How to reach me: ... through my mail
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I enjoy watching Anime and love drawing mandalas in my free time.
+
 ![lofi](https://user-images.githubusercontent.com/129833043/229730612-1ecf7942-526e-4bec-8ec0-03acc8f953b1.gif)
 
+
 ![borderseperator](https://user-images.githubusercontent.com/129833043/229751316-39b2c14e-d9af-424b-ae34-f93354603b20.gif)
+
 ## Skills 
 <hr></hr>
+
 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,5 +45,7 @@ I'm Krutika Malli from India,
 
 
 ![borderseperator](https://user-images.githubusercontent.com/129833043/229751316-39b2c14e-d9af-424b-ae34-f93354603b20.gif)
+
+  
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
