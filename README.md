@@ -1,5 +1,5 @@
-![borderseperator](https://user-images.githubusercontent.com/129833043/229751316-39b2c14e-d9af-424b-ae34-f93354603b20.gif)
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+<![borderseperator](https://user-images.githubusercontent.com/129833043/229751316-39b2c14e-d9af-424b-ae34-f93354603b20.gif width="50" height="50") />
+<img align="right" alt="GIF" src="./code.gif" width="50" height="50" />
 
 ### Hi there 👋, Welcome to my Profile 
 
