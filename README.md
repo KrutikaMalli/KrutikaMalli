@@ -15,15 +15,36 @@ I'm Krutika Malli from India,
 
 
 ## Skills 
+<hr></hr>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+
+
+```dart
+// tools_I_use organized
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "C++", "C", "Python"},
-    "Data vizualization tools" : {"Tableau", "Microsofft Power BI", "IBM Watson"},
-    "Database" : { "PostgreSQL", "MySQL", "Sqlite" },
-    "OtherTools" : { "Microsoft Excel", "Regression models" }
+    "Database" : { "MySQL", "PostgreSQL", "SQLite", 'Microsoft SQL Server },
+    "Analytics" : { "Tableau", "Google Analytics" },
+    "OtherTools" : { "Microsoft Excel" }
   };
 }
-
+```
 
 
 
