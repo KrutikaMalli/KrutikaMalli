@@ -14,3 +14,4 @@ I'm Krutika Malli from India,
 ![lofi](https://user-images.githubusercontent.com/129833043/229730612-1ecf7942-526e-4bec-8ec0-03acc8f953b1.gif)
 
 ## Skills 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
