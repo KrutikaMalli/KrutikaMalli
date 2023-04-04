@@ -1,5 +1,12 @@
 ![borderseperator](https://user-images.githubusercontent.com/129833043/229751316-39b2c14e-d9af-424b-ae34-f93354603b20.gif)
-### Hi there 👋
+### Hi there 👋, Welcome to my Profile <div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
+<div align="center">
+
 
 #  ![light](https://user-images.githubusercontent.com/129833043/229731339-2aa1ce35-7f9a-4f36-9ed2-d6ea12e34f48.gif) Krutika Malli
 I'm Krutika Malli from India,
