@@ -10,8 +10,7 @@ I'm Krutika Malli from India,
 - 📫 How to reach me: ... through my mail
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I enjoy watching Anime and love drawing mandalas in my free time.
-
-<img align="left" alt="GIF" src="![lofi](https://user-images.githubusercontent.com/129833043/229730612-1ecf7942-526e-4bec-8ec0-03acc8f953b1.gif)" width="300" height="300" />
+![lofi](https://user-images.githubusercontent.com/129833043/229730612-1ecf7942-526e-4bec-8ec0-03acc8f953b1.gif)
 
 
 ## Skills 
