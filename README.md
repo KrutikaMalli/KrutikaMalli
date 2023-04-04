@@ -2,13 +2,12 @@
 
 ### Hi there 👋, Welcome to my Profile 
 
-<![waving](https://user-images.githubusercontent.com/129833043/229754134-b4238d35-b257-4ccb-8cbc-1df5d714e36e.gif)
-alt="Welcome!" width="50" height="50" />
+![waving](https://user-images.githubusercontent.com/129833043/229754134-b4238d35-b257-4ccb-8cbc-1df5d714e36e.gif) width="50" height="50"
 
 
 
 
-#  ![light](https://user-images.githubusercontent.com/129833043/229731339-2aa1ce35-7f9a-4f36-9ed2-d6ea12e34f48.gif) Krutika Malli
+![light](https://user-images.githubusercontent.com/129833043/229731339-2aa1ce35-7f9a-4f36-9ed2-d6ea12e34f48.gif) Krutika Malli
 I'm Krutika Malli from India,
 
 - 🔭 I’m currently working on ... Advanced SQL, Creating interactive dashboards in Tableau and Power BI 
