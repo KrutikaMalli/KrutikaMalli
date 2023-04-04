@@ -13,6 +13,9 @@ I'm Krutika Malli from India,
 
 ![lofi](https://user-images.githubusercontent.com/129833043/229730612-1ecf7942-526e-4bec-8ec0-03acc8f953b1.gif)
 
+<!-- code gif-->
+<img align="right" alt="GIF" src="![waving](https://user-images.githubusercontent.com/129833043/229738185-29002ec8-d5ea-4941-8d76-77ef2d53441b.gif)" width="500" height="320" />
+
 ## Skills 
 
 
