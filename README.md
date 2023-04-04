@@ -2,7 +2,7 @@
 
 #  ![light](https://user-images.githubusercontent.com/129833043/229731339-2aa1ce35-7f9a-4f36-9ed2-d6ea12e34f48.gif) Krutika Malli
 I'm Krutika Malli from India,
-<img align="right" alt="GIF" src="![waving](https://user-images.githubusercontent.com/129833043/229738185-29002ec8-d5ea-4941-8d76-77ef2d53441b.gif)" width="200" height="150" />
+
 - 🔭 I’m currently working on ... Advanced SQL, Creating interactive dashboards in Tableau and Power BI <!-- code gif-->
 - 🌱 I’m currently learning ... Python, ML
 - 🤔 I’m looking for help with ... Portfolio Projects on Tableau
@@ -15,7 +15,14 @@ I'm Krutika Malli from India,
 
 
 ## Skills 
-
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "C++", "C", "Python"},
+    "Data vizualization tools" : {"Tableau", "Microsofft Power BI", "IBM Watson"},
+    "Database" : { "PostgreSQL", "MySQL", "Sqlite" },
+    "OtherTools" : { "Microsoft Excel", "Regression models" }
+  };
+}
 
 
 
