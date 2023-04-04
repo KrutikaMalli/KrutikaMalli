@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Welcome to my Profile 
 
-<img src="![waving](https://user-images.githubusercontent.com/129833043/229754134-b4238d35-b257-4ccb-8cbc-1df5d714e36e.gif)"
+![waving](https://user-images.githubusercontent.com/129833043/229754134-b4238d35-b257-4ccb-8cbc-1df5d714e36e.gif)
 alt="Welcome!" width="150"/>
 
 
