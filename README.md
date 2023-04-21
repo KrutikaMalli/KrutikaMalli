@@ -9,8 +9,8 @@
 
  <h1 align="center"> Hi there 👋,I'm Krutika Malli from India,</h1>
 
- 🔭 Am passionate about working on ... SQL, Creating appealing interactive dashboards in Tableau and Microsoft Power BI and Microsoft Excel.
-  🌱 I’m currently learning ... Python, Advanced SQL, Machine learning
+ 🔭 Am passionate about working on ... Machine learning models, SQL, Creating appealing interactive dashboards in Tableau and Microsoft Power BI and Microsoft Excel.
+  🌱 I’m currently learning ... Advanced SQL, Machine learning
   💬 Talk to me about ... Anime, Memes and Movies
   😄 Pronouns: ... She/Her
   ⚡ Fun fact: ... I enjoy watching Anime and drawing mandalas in my free time.
