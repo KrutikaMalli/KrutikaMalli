@@ -7,7 +7,7 @@
 <img src ="https://user-images.githubusercontent.com/129833043/229767240-05e181b8-7856-49d9-a974-b94b2a429b06.gif" width="300" height="250"/>
 
 
- <h1 align="center"> Hi there 👋,I'm Krutika Malli from India,</h1>
+ <h1 align="center"> Hi there 👋,I'm Krutika Malli,</h1>
 
  🔭 Am passionate about working on ... Machine learning models, SQL, Creating appealing interactive dashboards in Tableau and Microsoft Power BI and Microsoft Excel.
   🌱 I’m currently learning ... Advanced SQL, Machine learning
