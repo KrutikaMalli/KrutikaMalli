@@ -9,9 +9,9 @@
 
  <h1 align="center"> Hi there 👋,I'm Krutika Malli,</h1>
 
- 🔭 Am passionate about working on ... Machine learning models, SQL, Creating appealing interactive dashboards in Tableau and Microsoft Power BI and Microsoft Excel.
-  🌱 I’m currently learning ... Advanced SQL, Machine learning
-  💬 Talk to me about ... Data vizualisation, Data Analysis, Machine learning, Anime, Memes and Movies
+ 🔭 Am passionate about working on ... Machine learning models, Deep Learning, NLP, SQL, Creating appealing interactive dashboards in Tableau, Microsoft Power BI and Microsoft Excel.
+  🌱 I’m currently learning ... Gen AI, Advanced SQL
+  💬 Talk to me about ... Data vizualisation, Data Analysis, Machine learning, Deep learning, NLP, Anime, Memes and Movies
   😄 Pronouns: ... She/Her
   ⚡ Fun fact: ... I enjoy watching Anime and drawing mandalas in my free time.
 <hr></hr>
